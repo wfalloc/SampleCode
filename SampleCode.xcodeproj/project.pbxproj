@@ -15,6 +15,7 @@
 		B84BEEA11EE14589000BFE78 /* SampleCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B84BEEA01EE14589000BFE78 /* SampleCodeTests.swift */; };
 		B84BEEAC1EE14589000BFE78 /* SampleCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B84BEEAB1EE14589000BFE78 /* SampleCodeUITests.swift */; };
 		B84BEEBB1EE148DC000BFE78 /* ScrollViewInScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B84BEEBA1EE148DC000BFE78 /* ScrollViewInScrollViewController.swift */; };
+		B87CE5B71F62893400BE3B95 /* MapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87CE5B61F62893400BE3B95 /* MapController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B84BEEAB1EE14589000BFE78 /* SampleCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleCodeUITests.swift; sourceTree = "<group>"; };
 		B84BEEAD1EE14589000BFE78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B84BEEBA1EE148DC000BFE78 /* ScrollViewInScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollViewInScrollViewController.swift; sourceTree = "<group>"; };
+		B87CE5B61F62893400BE3B95 /* MapController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B84BEEB91EE148B5000BFE78 /* ScrollViewInScrollView */,
 				B84BEE8B1EE14588000BFE78 /* AppDelegate.swift */,
 				B84BEE8D1EE14588000BFE78 /* ViewController.swift */,
+				B87CE5B61F62893400BE3B95 /* MapController.swift */,
 				B84BEE8F1EE14588000BFE78 /* Main.storyboard */,
 				B84BEE921EE14588000BFE78 /* Assets.xcassets */,
 				B84BEE941EE14588000BFE78 /* LaunchScreen.storyboard */,
@@ -270,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B87CE5B71F62893400BE3B95 /* MapController.swift in Sources */,
 				B84BEE8E1EE14588000BFE78 /* ViewController.swift in Sources */,
 				B84BEEBB1EE148DC000BFE78 /* ScrollViewInScrollViewController.swift in Sources */,
 				B84BEE8C1EE14588000BFE78 /* AppDelegate.swift in Sources */,
